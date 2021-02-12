@@ -1,0 +1,313 @@
+@font-face{
+	font-family: letra3;
+	src: url(letra3.ttf);
+}
+@font-face{
+	font-family: letra4;
+	src: url(letra4.ttf);
+}
+.d1{
+    position: absolute;
+    top: 101%;
+    left: 16%;
+}
+.d2{
+	position: absolute;
+	top: 189%;
+	left: 16%;
+}
+.d3{
+    position: absolute;
+    top: 296%;
+    left: 20%;
+    width: 60%;
+    height: 35%;
+}
+.d4{
+    position: absolute;
+    top: 417%;
+    left: 20%;
+    width: 60%;
+    height: 35%;
+}
+.d5{
+     position: absolute;
+    top: 515%;
+    left: 25%;
+    width: 50%;
+    height: 35%;
+}
+.d6{
+    position: absolute;
+    top: 638%;
+    left: 25%;
+    width: 50%;
+    height: 35%;
+}
+.bo0{
+    position: fixed;
+    top: 2%;
+    left: 0%;
+    width: 2.3%;
+    height: 4%;
+    background-color: #FEDEC3;
+    border-width: 1%;
+    border-color: white;
+    border-style: solid;
+}
+.tbo0{
+	display: none;
+    position: absolute;
+    top: -145%;
+    left: 3%;
+    font-size: 210%;
+    font-family: letra3;
+    color: black;
+}
+.bo0:hover .tbo0{
+	display: block;
+}
+.boo0{
+	display: none;
+    position: absolute;
+    left: 0%;
+    top: -9%;
+    width: 460%;
+    height: 97%;
+    background-color: #FEDEC3;
+    border-width: 0.3%;
+    border-color: white;
+    border-style: solid;
+}
+.bo0:hover .boo0{
+	display: block;
+}
+.bo1{
+    position: fixed;
+    top: 8%;
+    left: 0%;
+    width: 2.3%;
+    height: 4%;
+    background-color: #FCFEC9;
+    border-width: 1%;
+    border-color: white;
+    border-style: solid;
+}
+.tbo1{
+	display: none;
+    position: absolute;
+    top: -145%;
+    left: 2%;
+    font-size: 210%;
+    font-family: letra3;
+    color: black;
+}
+.bo1:hover .tbo1{
+	display: block;
+}
+.boo1{
+	display: none;
+    position: absolute;
+    left: 0%;
+    top: -9%;
+    width: 585%;
+    height: 97%;
+    background-color: #FCFEC9;
+    border-width: 0.3%;
+    border-color: white;
+    border-style: solid;
+}
+.bo1:hover .boo1{
+	display: block;
+}
+.bo2{
+    position: fixed;
+    top: 14%;
+    left: 0%;
+    width: 2.3%;
+    height: 4%;
+    background-color: #DBFECF;
+    border-width: 1%;
+    border-color: white;
+    border-style: solid;
+}
+.tbo2{
+	display: none;
+    position: absolute;
+    top: -145%;
+    left: 6%;
+    font-size: 210%;
+    font-family: letra3;
+    color: black;
+}
+.bo2:hover .tbo2{
+	display: block;
+}
+.boo2{
+	display: none;
+    position: absolute;
+    left: 0%;
+    top: -9%;
+    width: 340%;
+    height: 97%;
+    background-color: #DBFECF;
+    border-width: 0.3%;
+    border-color: white;
+    border-style: solid;
+}
+.bo2:hover .boo2{
+	display: block;
+}
+.bo3{
+    position: fixed;
+    top: 20%;
+    left: 0%;
+    width: 2.3%;
+    height: 4%;
+    background-color: #CFFEF7;
+    border-width: 1%;
+    border-color: white;
+    border-style: solid;
+}
+.tbo3{
+	display: none;
+    position: absolute;
+    top: -145%;
+    left: 2%;
+    font-size: 210%;
+    font-family: letra3;
+    color: black;
+}
+.bo3:hover .tbo3{
+	display: block;
+}
+.boo3{
+	display: none;
+    position: absolute;
+    left: 0%;
+    top: -9%;
+    width: 330%;
+    height: 97%;
+    background-color: #CFFEF7;
+    border-width: 0.3%;
+    border-color: white;
+    border-style: solid;
+}
+.bo3:hover .boo3{
+	display: block;
+}
+.bo4{
+    position: fixed;
+    top: 26%;
+    left: 0%;
+    width: 2.3%;
+    height: 4%;
+    background-color: #ECD7FF;
+    border-width: 1%;
+    border-color: white;
+    border-style: solid;
+}
+.tbo4{
+	display: none;
+    position: absolute;
+    top: -145%;
+    left: 3%;
+    font-size: 210%;
+    font-family: letra3;
+    color: black;
+}
+.bo4:hover .tbo4{
+	display: block;
+}
+.boo4{
+	display: none;
+    position: absolute;
+    left: 0%;
+    top: -9%;
+    width: 430%;
+    height: 97%;
+    background-color: #ECD7FF;
+    border-width: 0.3%;
+    border-color: white;
+    border-style: solid;
+}
+.bo4:hover .boo4{
+	display: block;
+}
+.bo5{
+    position: fixed;
+    top: 32%;
+    left: 0%;
+    width: 2.3%;
+    height: 4%;
+    background-color: #FECDE8;
+    border-width: 1%;
+    border-color: white;
+    border-style: solid;
+}
+.tbo5{
+	display: none;
+    position: absolute;
+    top: -145%;
+    left: 6%;
+    font-size: 210%;
+    font-family: letra3;
+    color: black;
+}
+.bo5:hover .tbo5{
+	display: block;
+}
+.boo5{
+	display: none;
+    position: absolute;
+    left: 0%;
+    top: -9%;
+    width: 240%;
+    height: 97%;
+    background-color: #FECDE8;
+    border-width: 0.3%;
+    border-color: white;
+    border-style: solid;
+}
+.bo5:hover .boo5{
+	display: block;
+}
+.bo6{
+    position: fixed;
+    top: 38%;
+    left: 0%;
+    width: 2.3%;
+    height: 4%;
+    background-color: #FF6A6A;
+    border-width: 1%;
+    border-color: white;
+    border-style: solid;
+}
+.tbo6{
+	display: none;
+    position: absolute;
+    top: -145%;
+    left: 8%;
+    font-size: 210%;
+    font-family: letra3;
+    color: black;
+}
+.bo6:hover .tbo6{
+	display: block;
+}
+.boo6{
+	display: none;
+    position: absolute;
+    left: 0%;
+    top: -9%;
+    width: 200%;
+    height: 97%;
+    background-color: #FF6A6A;
+    border-width: 0.3%;
+    border-color: white;
+    border-style: solid;
+}
+.bo6:hover .boo6{
+	display: block;
+}
+

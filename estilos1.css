@@ -1,0 +1,223 @@
+body{
+	background-color: #E6EEFF;
+}
+@font-face{
+	font-family: letra1;
+	src: url(letra1.ttf);
+}
+.encabezado{
+	position: absolute;
+	top: 0%;
+	left: 12%;
+}
+.bienvenido{
+	position: absolute;
+	top: 49%;
+	left: 0%;
+	width: 100%;
+}
+.fijo{
+    position: absolute;
+    top: 80%;
+    left: 0%;
+    width: 100%;
+    height: 16%;
+    background-color: #FF6A6A;
+}
+.bot0{
+	position: absolute;
+	top: 19%;
+	left: 1.5%;
+	background-color: #FEDEC3;
+	width: 16%;
+	height: 60%;
+	border-style: solid;
+	border-color: white;
+	border-width: 3%;
+}
+.tit0{
+	text-decoration: none;
+	position: absolute;
+	top: -21%;
+	left: 1.7%;
+	color: salmon;
+	font-size: 280%;
+	font-family: letra1;
+}
+.bot1{
+	position: absolute;
+	top: 19%;
+	left: 18.5%;
+	background-color: #FCFEC9;
+	width: 15.5%;
+	height: 60%;
+	border-style: solid;
+	border-color: white;
+	border-width: 3%;
+}
+.tit1{
+	text-decoration: none;
+	position: absolute;
+	top: -21%;
+	left: 18.6%;
+	color: salmon;
+	font-size: 280%;
+	font-family: letra1;
+}
+.bot2{
+	position: absolute;
+	top: 19%;
+	left: 35%;
+	background-color: #DBFECF;
+	width: 15%;
+	height: 60%;
+	border-style: solid;
+	border-color: white;
+	border-width: 3%;
+}
+.tit2{
+	text-decoration: none;
+	position: absolute;
+	top: -21%;
+	left: 38%;
+	color: salmon;
+	font-size: 280%;
+	font-family: letra1;
+}
+.bot3{
+	position: absolute;
+	top: 19%;
+	left: 51%;
+	background-color: #CFFEF7;
+	width: 15%;
+	height: 60%;
+	border-style: solid;
+	border-color: white;
+	border-width: 3%;
+}
+.tit3{
+	text-decoration: none;
+	position: absolute;
+	top: -21%;
+	left: 54%;
+	color: salmon;
+	font-size: 280%;
+	font-family: letra1;
+}
+.bot4{
+	position: absolute;
+	top: 19%;
+	left: 67%;
+	background-color: #ECD7FF;
+	width: 15%;
+	height: 60%;
+	border-style: solid;
+	border-color: white;
+	border-width: 3%;
+}
+.tit4{
+	text-decoration: none;
+	position: absolute;
+	top: -21%;
+	left: 69%;
+	color: salmon;
+	font-size: 280%;
+	font-family: letra1;
+}
+.bot5{
+	position: absolute;
+	top: 19%;
+	left: 83%;
+	background-color: #FECDE8;
+	width: 15%;
+	height: 60%;
+	border-style: solid;
+	border-color: white;
+	border-width: 3%;
+}
+.tit5{
+	text-decoration: none;
+	position: absolute;
+	top: -21%;
+	left: 87.5%;
+	color: salmon;
+	font-size: 280%;
+	font-family: letra1;
+}
+a{
+	text-decoration: none;
+}
+.linea{
+	position: absolute;
+	top: 183%;
+	left: 0%;
+	width: 100%;
+	height: 1%;
+	background-color: #FF6A6A;
+}
+.linea2{
+	position: absolute;
+	top: 289%;
+	left: 0%;
+	width: 100%;
+	height: 1%;
+	background-color: #FF6A6A;
+}
+.linea3{
+	position: absolute;
+	top: 335%;
+	left: 47%;
+	width: 0.7%;
+	height: 70%;
+	background-color: white;
+	border-style: solid;
+	border-color: #95FC97;
+	border-width: 1%;
+}
+.linea4{
+	position: absolute;
+	top: 410%;
+	left: 0%;
+	width: 100%;
+	height: 1%;
+	background-color: #FF6A6A;
+}
+.linea5{
+	position: absolute;
+	top: 510%;
+	left: 0%;
+	width: 100%;
+	height: 1%;
+	background-color: #FF6A6A;
+}
+.linea6{
+	position: absolute;
+	top: 555%;
+	left: 47%;
+	width: 0.7%;
+	height: 70%;
+	background-color: white;
+	border-style: solid;
+	border-color: #C8BFE7;
+	border-width: 1%;
+}
+.linea7{
+	position: absolute;
+	top: 630%;
+	left: 0%;
+	width: 100%;
+	height: 1%;
+	background-color: #FF6A6A;
+}
+.linea8{
+	position: absolute;
+	top: 679%;
+	left: 47%;
+	width: 0.7%;
+	height: 70%;
+	background-color: white;
+	border-style: solid;
+	border-color: #FCC5C1;
+	border-width: 1%;
+}
+

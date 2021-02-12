@@ -1,0 +1,254 @@
+@font-face{
+	font-family: letra4;
+	src: url(letra4.ttf);
+}
+@font-face{
+	font-family: letra3;
+	src: url(letra3.ttf);
+}
+.exes{
+	position: absolute;
+	top: 140%;
+	left: 4%;
+	width: 12%;
+	height: 5.1%;
+}
+.titexes{
+	position: absolute;
+	font-size: 130%;
+	font-family: letra4;
+	color: #FA3C3C;
+    left: 4%;
+    top: -75%;
+}
+.imgexes1{
+    display: none;
+    position: absolute;
+    top: 60%;
+    width: 560%;
+    height: 700%;
+    left: 113%;
+}
+.exes:hover .imgexes1{
+	display: block;
+}
+.exes2{
+	position: absolute;
+	top: 170%;
+	left: 4%;
+	width: 12%;
+	height: 5.1%;
+}
+.titexes2{
+	position: absolute;
+	font-size: 130%;
+	font-family: letra4;
+	color: #FA3C3C;
+    left: 12%;
+    top: -75%;
+}
+.botlibre{
+	position: absolute;
+	top: 140%;
+	left: 84%;
+	width: 15%;
+	height: 5.1%;
+}
+.librerias{
+	position: absolute;
+	font-size: 130%;
+	font-family: letra4;
+	color: #CD6155;
+    left: 12%;
+    top: -75%;
+}
+.imli1{
+	display: none;
+	position: absolute;
+    top: 110%;
+    left: -440%;
+    width: 200%;
+    height: 600%;
+}
+.botlibre:hover .imli1{
+	display: block;
+}
+.imli2{
+	display: none;
+	position: absolute;
+    top: 15%;
+    left: -232%;
+    width: 235%;
+    height: 760%;
+}
+.botlibre:hover .imli2{
+	display: block;
+}
+.botfun{
+	position: absolute;
+	top: 155%;
+	left: 84%;
+	width: 15%;
+	height: 5.1%;
+}
+.funciones{
+	position: absolute;
+	font-size: 130%;
+	font-family: letra4;
+	color: #CD6155;
+    left: 12%;
+    top: -75%;
+}
+.imfunciones1{
+	display: none;
+	position: absolute;
+	top: -230%;
+	left: -446%;
+	width: 240%;
+	height: 690%;
+}
+.botfun:hover .imfunciones1{
+	display: block;
+}
+.imfunciones2{
+	display: none;
+	position: absolute;
+	top: -195%;
+	left: -198%;
+	width: 205%;
+	height: 600%;
+}
+.botfun:hover .imfunciones2{
+	display: block;
+}
+.botmain{
+	position: absolute;
+	top: 170%;
+	left: 84%;
+	width: 15%;
+	height: 5.1%;
+}
+.main{
+	position: absolute;
+	font-size: 130%;
+	font-family: letra4;
+	color: #CD6155;
+    left: 12%;
+    top: -75%;
+}
+.immain{
+	display: none;
+	position: absolute;
+	top: -510%;
+	left: -350%;
+	width: 240%;
+	height: 620%;
+}
+.botmain:hover .immain{
+	display: block;
+}
+.b1{
+	position: absolute;
+	top: 222%;
+	left: 8%;
+	width: 6%;
+	height: 10%;
+}
+.tb1{
+	position: absolute;
+	top: 10%;
+	left: 10%;
+    font-family: letra4;
+    font-size: 155%;
+    color: #A86FFE;
+}
+.b2{
+	position: absolute;
+	top: 222%;
+	left: 26%;
+	width: 6%;
+	height: 10%;
+}
+.tb2{
+	position: absolute;
+	top: 10%;
+	left: 10%;
+    font-family: letra4;
+    font-size: 155%;
+    color: #6FBCFE;
+}
+.b3{
+	position: absolute;
+	top: 222%;
+	left: 45%;
+	width: 6%;
+	height: 10%;
+}
+.tb3{
+	position: absolute;
+	top: 10%;
+	left: 10%;
+    font-family: letra4;
+    font-size: 155%;
+    color: #6CEA8C;
+}
+.b4{
+	position: absolute;
+	top: 222%;
+	left: 68%;
+	width: 6%;
+	height: 10%;
+}
+.tb4{
+	position: absolute;
+	top: 10%;
+	left: 10%;
+    font-family: letra4;
+    font-size: 155%;
+    color: #FCA6D6;
+}
+.b5{
+	position: absolute;
+	top: 222%;
+	left: 88%;
+	width: 6%;
+	height: 10%;
+}
+.tb5{
+	position: absolute;
+	top: 10%;
+	left: 10%;
+    font-family: letra4;
+    font-size: 155%;
+    color: #FEB47A;
+}
+.varia1{
+	position: absolute;
+	top: 280%;
+	left: 10%;
+	width: 14%;
+	height: 6%;
+}
+.tv1{
+	position: absolute;
+	left: 1%;
+	top: -135%;
+	color: #EA6C7D;
+	font-size: 315%;
+	font-family: letra1;
+}
+.varia2{
+	position: absolute;
+	top: 280%;
+	left: 66%;
+	width: 14%;
+	height: 6%;
+}
+.tv2{
+	position: absolute;
+	left: 1%;
+	top: -135%;
+	color: #EA6C7D;
+	font-size: 315%;
+	font-family: letra1;
+}
